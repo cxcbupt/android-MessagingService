@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:16:1-56:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/ba993d41fa98893151bc55538c3d4632/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f57dfcd24aed807257648eb9fd7451ae/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/4564b91ed5bd7175461af2efc28852a5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/2edbfcb071ecafeb2676ae04665dca9c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2cf4fde8ad3a20c4866c630793b4a311/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9cba66973d6f778378f187157a643dd1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/1532847dbab9a15525bf4d3dccece5a1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/7b4a4432fa449ad8f2aba8358d872ab5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/c1f757e8711120b4b3f0d4a0d96e41c0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a3084fe6fc628ace629f945e4abaf055/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:16:1-56:12
+	package
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:17:5-51
+		INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:16:1-56:12
+		INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:16:1-56:12
+		INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:19:5-55:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/ba993d41fa98893151bc55538c3d4632/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/ba993d41fa98893151bc55538c3d4632/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f57dfcd24aed807257648eb9fd7451ae/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f57dfcd24aed807257648eb9fd7451ae/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/4564b91ed5bd7175461af2efc28852a5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/4564b91ed5bd7175461af2efc28852a5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/2edbfcb071ecafeb2676ae04665dca9c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/2edbfcb071ecafeb2676ae04665dca9c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2cf4fde8ad3a20c4866c630793b4a311/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2cf4fde8ad3a20c4866c630793b4a311/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9cba66973d6f778378f187157a643dd1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9cba66973d6f778378f187157a643dd1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/1532847dbab9a15525bf4d3dccece5a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/1532847dbab9a15525bf4d3dccece5a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/7b4a4432fa449ad8f2aba8358d872ab5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/7b4a4432fa449ad8f2aba8358d872ab5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/c1f757e8711120b4b3f0d4a0d96e41c0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/c1f757e8711120b4b3f0d4a0d96e41c0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a3084fe6fc628ace629f945e4abaf055/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a3084fe6fc628ace629f945e4abaf055/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:19:18-44
+	android:theme
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:22:9-40
+meta-data#com.google.android.gms.car.application
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:24:9-25:65
+	android:resource
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:25:20-63
+	android:name
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:24:20-73
+activity#com.example.android.messagingservice.MainActivity
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:27:9-35:20
+	android:label
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:33:27-74
+service#com.example.android.messagingservice.MessagingService
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:37:9-38:19
+	android:name
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:37:18-50
+receiver#com.example.android.messagingservice.MessageReadReceiver
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:40:9-46:20
+	android:exported
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:41:13-48
+intent-filter#action:name:com.example.android.messagingservice.ACTION_MESSAGE_READ
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:43:13-45:29
+action#com.example.android.messagingservice.ACTION_MESSAGE_READ
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:44:17-98
+	android:name
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:44:25-96
+receiver#com.example.android.messagingservice.MessageReplyReceiver
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:48:9-54:20
+	android:exported
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:49:13-49
+intent-filter#action:name:com.example.android.messagingservice.ACTION_MESSAGE_REPLY
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:51:13-53:29
+action#com.example.android.messagingservice.ACTION_MESSAGE_REPLY
+ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:52:17-99
+	android:name
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml:52:25-97
+uses-sdk
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/ba993d41fa98893151bc55538c3d4632/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/ba993d41fa98893151bc55538c3d4632/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f57dfcd24aed807257648eb9fd7451ae/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f57dfcd24aed807257648eb9fd7451ae/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/4564b91ed5bd7175461af2efc28852a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/4564b91ed5bd7175461af2efc28852a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/2edbfcb071ecafeb2676ae04665dca9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/2edbfcb071ecafeb2676ae04665dca9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2cf4fde8ad3a20c4866c630793b4a311/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2cf4fde8ad3a20c4866c630793b4a311/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9cba66973d6f778378f187157a643dd1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9cba66973d6f778378f187157a643dd1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/1532847dbab9a15525bf4d3dccece5a1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/1532847dbab9a15525bf4d3dccece5a1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/7b4a4432fa449ad8f2aba8358d872ab5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/7b4a4432fa449ad8f2aba8358d872ab5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/c1f757e8711120b4b3f0d4a0d96e41c0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/c1f757e8711120b4b3f0d4a0d96e41c0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a3084fe6fc628ace629f945e4abaf055/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a3084fe6fc628ace629f945e4abaf055/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/ba993d41fa98893151bc55538c3d4632/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chuancui/Desktop/CXC_Home/DemoHome/android-MessagingService/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/ba993d41fa98893151bc55538c3d4632/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f57dfcd24aed807257648eb9fd7451ae/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f57dfcd24aed807257648eb9fd7451ae/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/4564b91ed5bd7175461af2efc28852a5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/4564b91ed5bd7175461af2efc28852a5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/2edbfcb071ecafeb2676ae04665dca9c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/2edbfcb071ecafeb2676ae04665dca9c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2cf4fde8ad3a20c4866c630793b4a311/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2cf4fde8ad3a20c4866c630793b4a311/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9cba66973d6f778378f187157a643dd1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9cba66973d6f778378f187157a643dd1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/1532847dbab9a15525bf4d3dccece5a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/1532847dbab9a15525bf4d3dccece5a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/7b4a4432fa449ad8f2aba8358d872ab5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/7b4a4432fa449ad8f2aba8358d872ab5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/c1f757e8711120b4b3f0d4a0d96e41c0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/c1f757e8711120b4b3f0d4a0d96e41c0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a3084fe6fc628ace629f945e4abaf055/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a3084fe6fc628ace629f945e4abaf055/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/ba993d41fa98893151bc55538c3d4632/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/chuancui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/ba993d41fa98893151bc55538c3d4632/AndroidManifest.xml:27:13-51
